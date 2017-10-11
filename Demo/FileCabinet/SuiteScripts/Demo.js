@@ -1,4 +1,4 @@
-
+/*Version 1.0*/
 function UpdateAfterSubmit(type, form)
 {
     // load sales order record
